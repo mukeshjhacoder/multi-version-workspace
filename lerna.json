@@ -1,0 +1,6 @@
+{
+    "packages": ["packages/*"],
+    "npmClinet": "yarn",
+    "useWrkspaces": true,
+    "version": "independent"
+}

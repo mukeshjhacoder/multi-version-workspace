@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+       "jsx": "react",
+       "baseUrl": "./packages",
+       "paths": {
+          "@api/module/channels/*": ["api/packages/channels/src/*"],
+          "@api/module/interceptors/*": ["api/packages/interceptors/src/*"],
+          "@api/module/logger/*": ["api/packages/logger/src/*"],
+          "@api/core/handler/*": ["api/core/handler/src/*"],
+          "@ui/module/connector/*": ["ui/packages/connector/src/*"],
+          "@ui/module/logger/*": ["ui/packages/logger/src/*"],
+          "@ui/core/base/*": ["ui/core/base/src/*"],
+          "@ui/core/utils/*": ["ui/core/utils/src/*"],
+          "@ui/core/activity/*": ["ui/core/activity/src/*"],
+       }
+    }
+}

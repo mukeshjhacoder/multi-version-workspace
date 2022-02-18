@@ -1,0 +1,12 @@
+{
+  "presets": [["@babel/preset-env", {
+      "loose": true
+    }], ["@babel/preset-react", {
+      "loose": true
+    }]],
+  "plugins": [["@babel/plugin-syntax-jsx", {
+      "loose": true
+    }], ["@babel/plugin-proposal-class-properties", {
+      "loose": true
+    }]]
+}

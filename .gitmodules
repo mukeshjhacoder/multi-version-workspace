@@ -1,0 +1,7 @@
+[submodule "packages"]
+	path = packages
+	url = git://foo.com/git/lib.git
+
+[submodule "apps"]
+	path = apps
+	url = git://bar.com/git/lib.git
