@@ -10,4 +10,4 @@ workspace-root
 
 HLD for workspace code-flow :-
 
-![plot](./core.png)
+![plot](./arch.png)
